@@ -1,16 +1,52 @@
-## Hi there 👋
-
 <!--
-**irfanawanwebdev/irfanawanwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+GitHub Profile README for irfanawanwebdev
+Designed for dark mode
+Clean, minimal, developer focused
 -->
+
+<h1 align="center">Hi, I'm Irfan Awan 👋</h1>
+
+<p align="center">
+WordPress Developer • Plugin Engineer • Performance Specialist
+</p>
+
+<p align="center">
+I build fast, scalable WordPress solutions, custom plugins, and developer tools.
+Focused on performance, clean architecture, and professional user experience.
+</p>
+
+---
+
+## ⚡ About Me
+
+- 💻 WordPress Developer focused on custom themes & plugins
+- 🚀 Performance optimization specialist (Core Web Vitals)
+- 🧩 Building developer tools & productivity utilities
+- 🎯 Clean, scalable, lightweight code architecture
+- 📈 Focused on long-term maintainability
+
+---
+
+## 🧠 Core Expertise
+
+- Custom WordPress Theme Development
+- Plugin Development
+- Performance Optimization
+- Technical SEO
+- UI Implementation from Figma
+- Developer Tools Creation
+- Responsive & Accessible UI
+
+---
+
+## 🛠 Tech Stack
+
+### Core
+
+```txt
+WordPress
+PHP
+JavaScript
+HTML5
+SCSS
+MySQL
